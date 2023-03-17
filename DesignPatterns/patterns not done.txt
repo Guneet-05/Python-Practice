@@ -1,0 +1,4 @@
+iterator
+mediator
+composite -> telusko
+interpretor
